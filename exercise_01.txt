@@ -1,0 +1,35 @@
+#Exercise: Creating a Customers Database
+
+1) Database Creation:
+Create a new database named CustomerDatabase.
+
+2) Switch to the Database:
+Switch to the newly created database.
+
+3) Table Creation:
+Create a table named Customers with the following attributes:
+
+customer_id (integer): Unique identifier for each customer. Set this as the primary key.
+first_name (varchar): First name of the customer.
+last_name (varchar): Last name of the customer.
+email (varchar): Email address of the customer.
+phone_number (varchar): Phone number of the customer.
+address (text): Customer's address.
+city (varchar): City where the customer resides.
+state (varchar): State or region of the customer.
+zip_code (varchar): ZIP code of the customer.
+country (varchar): Country of the customer.
+
+4) Data Types and Constraints:
+
+5) Choose appropriate data types and lengths for each attribute.
+Add necessary constraints, such as NOT NULL for required fields.
+
+Default Values:
+For appropriate attributes, set default values (e.g., a default country for customers).
+
+6) Sample Data:
+Insert at least 5 sample records into the Customers table.
+
+7) SQL Script: Write the SQL script to create the database, create the Customers table, and insert sample data.
+
