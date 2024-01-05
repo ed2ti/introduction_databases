@@ -4,13 +4,12 @@ Consider the initial Customers table structure (exercise_01.txt)
 Analyze the table to identify functional dependencies and potential redundancy.
 
 2) Create New Tables:
+Create new tables to represent entities that are dependent on the primary key and contain non-prime attributes.
 
-3) Create new tables to represent entities that are dependent on the primary key and contain non-prime attributes.
-
-4) Populate New Tables:
+3) Populate New Tables:
 Insert data into the newly created tables.
 
-5) Review and Refine:
+4) Review and Refine:
 Review the new structure to ensure that it adheres to normalization principles.
 Refine the tables and relationships if necessary.
 
