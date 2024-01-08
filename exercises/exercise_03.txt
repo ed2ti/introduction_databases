@@ -1,3 +1,8 @@
+#Exercise 03.01: Importing data to Customers Database
+01) Generate fake data from https://mockaroo.com/ with exact fields from the Customers table.
+02) Import data on the Customers table.
+
+#Exercise 03.02: Execute the commands below.
 01) Select all customers:
 02) Select only the names (first_name and last_name) of customers:
 03) Count the total number of customers:
