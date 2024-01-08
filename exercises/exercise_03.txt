@@ -1,0 +1,10 @@
+01) Select all customers:
+02) Select only the names (first_name and last_name) of customers:
+03) Count the total number of customers:
+04) Select customers who are from France:
+05) Sort customers by city in alphabetical order:
+06) Select the first 5 customers:
+07) Select customers who have a specific phone number:
+08) Count how many customers are from each country:
+09) Select customers whose name starts with 'A':
+10) Select customers who are from a specific country and a specific city
